@@ -1,0 +1,10 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Local secrets
+*.tfvars
+
+# Editor files
+.*.swp
